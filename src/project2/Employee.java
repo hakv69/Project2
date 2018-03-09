@@ -101,4 +101,5 @@ public abstract class Employee {
         System.out.printf("%3d %-15s %-15s %10s %-7s %6.0f ",emplId,firstName,lastName,birthday,gender.toString(),salary);
     }
     
+    
 }
