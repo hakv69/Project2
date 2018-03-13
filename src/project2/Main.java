@@ -10,6 +10,8 @@ public class Main {
     public static void main(String[] args) throws ParseException {
         Methods.createDB();
 
+        ArrayList<Employee> persons = new ArrayList<>();    
+
         boolean loop = true;
         do {
             Methods.printMenuTitle("Main menu");

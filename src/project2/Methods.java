@@ -188,7 +188,7 @@ class Methods {
             return null;
     }
 
-    
+    //new ArrayList<String>(Arrays.asList("Hej","På","Dig"))
     
     public static void createDB() {
         //Add Secretaries
