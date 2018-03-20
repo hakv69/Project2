@@ -9,6 +9,7 @@ public class EmployeeManagement {
 
     public static Scanner sc = new Scanner(System.in);
 
+    
     static void menu(ArrayList<Employee> employees) throws ParseException {
 
         boolean loop = true;
